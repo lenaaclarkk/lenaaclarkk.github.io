@@ -2,3 +2,7 @@ body {
     text-align: center;
     font-family: "avenir next", sans-serif;
 }
+
+img {
+    max-width: 24rem;
+}
